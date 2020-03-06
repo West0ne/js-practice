@@ -9,7 +9,7 @@ getAbsSum([-3, -4, -10, -2, -3]) ➞ 22
 getAbsSum([2, 4, 6, 8, 10]) ➞ 30
 
 getAbsSum([-1]) ➞ 1
-*/
+*/ 
 //SOLUTION
 
 function getAbsSum(arr){
